@@ -29,4 +29,4 @@
 ---
 
 ###### Connect with me:
-[Website](http://sandikoprastyo.netlify.app) | [LinkedIn](https://www.linkedin.com/in/sandiko-prastyo-b62115119/) | [Kaggle](https://www.kaggle.com/sandikoprastyo) | [StackOverflow](https://stackoverflow.com/users/12489986/dicko)
+[LinkedIn](https://www.linkedin.com/in/sandiko-prastyo-b62115119/) | [Kaggle](https://www.kaggle.com/sandikoprastyo) | [StackOverflow](https://stackoverflow.com/users/12489986/dicko)
