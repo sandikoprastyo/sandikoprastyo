@@ -2,7 +2,7 @@
 **Software Engineer | AI & Machine Learning Engineer**
 
 🚀 Focused on building scalable software and AI systems and bridging the gap between robust software engineering and cutting-edge GenAI.
-🔥 Passionate about learning. Currently specializing in Software engineering, Architecting resilient systems. ,RAG architectures, LLM Orchestration, and MLOps.
+🔥 Passionate about learning. Currently specializing in Software engineering, Architecting resilient systems, RAG architectures, LLM Orchestration, and MLOps.
 
 ---
 
