@@ -1,8 +1,8 @@
 ### Hi there! 👋 I'm Diko
 **Software Engineer | AI & Machine Learning Engineer**
 
-🚀 Focused on building scalable AI systems and bridging the gap between robust software engineering and cutting-edge GenAI.
-🔥 Passionate about learning. Currently specializing in RAG architectures, LLM Orchestration, and MLOps.
+🚀 Focused on building scalable software and AI systems and bridging the gap between robust software engineering and cutting-edge GenAI.
+🔥 Passionate about learning. Currently specializing in Software engineering, Architecting resilient systems. ,RAG architectures, LLM Orchestration, and MLOps.
 
 ---
 
@@ -12,10 +12,12 @@
 * **Languages:** Go, TypeScript, Python, C#, Java, Rust
 * **Cloud & DevOps:** AWS, Azure, GCP, Alibaba Cloud, Terraform, Docker, Kubernetes
 * **Backend:** Node.js, ASP.NET Core, Go, FastAPI, Spring Boot
+* **Messaging & Streaming:** RabbitMQ, Apache Kafka, NATS
+* **Monitoring & Observability:** Prometheus, Grafana, ELK Stack, Datadog
 
 **AI, Data & MLOps**
-* **GenAI & RAG:** Prompt Engineering, RAG (Retrieval-Augmented Generation), LangChain, LlamaIndex, OpenAI API, Hugging Face
-* **Vector Databases:** pgvector, Pinecone, Weaviate, Milvus
+* **GenAI & RAG:** Prompt Engineering, RAG (Retrieval-Augmented Generation), LangChain, LlamaIndex, Hugging Face
+* **Databases:** PostgreSQL (with pgvector), MsSQL, MySQL, MongoDB, Redis, DynamoDB, Elasticsearch
 * **Data Engineering:** Microsoft Fabric, Pandas, NumPy, Apache Spark
 * **MLOps & Experiment Tracking:** MLflow, DVC, Weights & Biases
 * **Frameworks:** PyTorch, TensorFlow, Scikit-learn
